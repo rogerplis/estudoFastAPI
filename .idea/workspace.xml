@@ -4,63 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbc2d466-1c23-4e44-9eba-be0f75dd101b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/estudoFastAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/conn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/databases/db_connect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/models/user_models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/routers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/routers/auth_router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/routers/pessoa_router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/routers/task_router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/routers/user_router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/schemas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/schemas/schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/security/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/security/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/security/security.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/security/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/services/pessoa_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/services/sub_task_services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/services/task_services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tasks/services/user_services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/util/cpf_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/util/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/util/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/.idea/frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/app_layout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/board_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/data_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/memory_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/sidebar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/user.py" afterDir="false" />
-    </list>
+    <list default="true" id="bbc2d466-1c23-4e44-9eba-be0f75dd101b" name="Changes" comment="commit incial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,34 +35,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Docker.Docker Image.executor&quot;: &quot;Run&quot;,
-    &quot;Docker.app/docker-compose.yaml: Compose Deployment.executor&quot;: &quot;Run&quot;,
-    &quot;Docker.docker-compose.yaml.app: Compose Deployment.executor&quot;: &quot;Run&quot;,
-    &quot;Docker.docker-compose.yaml.postgres: Compose Deployment.executor&quot;: &quot;Run&quot;,
-    &quot;Docker.docker-compose.yaml: Compose Deployment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cpf_validator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.db_connect.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pessoa_service.executor&quot;: &quot;Run&quot;,
-    &quot;Python.security.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sub_task_services.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_models.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user_models.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user_services.executor&quot;: &quot;Run&quot;,
-    &quot;Python.util.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/estudo/python/estudoFastAPI/app/main.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Docker.Docker Image.executor": "Run",
+    "Docker.app/docker-compose.yaml: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yaml.app: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yaml.postgres: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yaml: Compose Deployment.executor": "Run",
+    "Python.conn.executor": "Run",
+    "Python.cpf_validator.executor": "Run",
+    "Python.db_connect.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pessoa_service.executor": "Run",
+    "Python.security.executor": "Run",
+    "Python.sub_task_services.executor": "Run",
+    "Python.task_models.executor": "Run",
+    "Python.user_models.executor": "Run",
+    "Python.user_services.executor": "Run",
+    "Python.util.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/estudo/python/estudoFastAPI/app/main.py",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\estudo\python\estudoFastAPI\tasks\services" />
@@ -288,6 +233,15 @@
       <option name="presentableId" value="Default" />
       <updated>1717510952118</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit incial">
+      <option name="closed" value="true" />
+      <created>1720731381080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720731381080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,5 +249,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/app/frontend_old" />
     </ignored-roots>
+    <MESSAGE value="commit incial" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit incial" />
   </component>
 </project>
